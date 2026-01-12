@@ -12,8 +12,8 @@
 - 맘아이 버전이 달라질 경우 동작하지 않을 수 있습니다. (5.0 버전을 기준으로 작성됨)
 
 ## 사용 방법
-1. Python이 설치된 환경에서 momi_passwd_oneclick.py을 실행합니다. (python momi_passwd_oneclick.py)
-2. 미리 빌드된 exe를 실행합니다.
+1. 미리 빌드된 exe 파일로 실행합니다: [mamai_passwd_oneclick.exe](https://github.com/godxxy1229/momi_passwd_ext/releases/download/v0.0.1/mamai_passwd_oneclick.exe)
+2. Python이 설치된 환경에서 momi_passwd_oneclick.py을 실행합니다. (python momi_passwd_oneclick.py)
 
 ## References
 - [MomiCrack](https://github.com/PragmoB/MomiCrack)을 참고했습니다.
