@@ -1,2 +1,18 @@
-# momi_passwd_ext
-맘아이 크랙 (비밀번호 가져오기)
+# Momi Password Extractor
+
+실행 중인 맘아이(Momi) 관련 프로세스의 메모리를 스캔하여 비밀번호를 추출하는 도구입니다.
+
+## 기능
+- 버튼을 클릭해 관련 프로세스를 자동으로 탐색하고 비밀번호를 추출합니다.
+- 맘아이 버전이 달라질 경우 동작하지 않을 수 있습니다. (5.0 버전을 기준으로 작성됨)
+
+## 사용 방법
+1. Python이 설치된 환경에서 momi_passwd_oneclick.py을 실행합니다. (python momi_passwd_oneclick.py)
+2. 미리 빌드된 exe를 실행합니다.
+
+## References
+- [MomiCrack](https://github.com/PragmoB/MomiCrack)을 참고했습니다.
+
+## 주의사항
+- 이 코드는 프로세스 메모리를 읽기 위해 관리자 권한이 필요합니다.
+- 학습을 목적으로 작성했습니다. 악용 시 발생하는 모든 책임은 사용자에게 있습니다.
