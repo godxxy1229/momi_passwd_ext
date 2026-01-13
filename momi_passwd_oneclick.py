@@ -267,7 +267,7 @@ class App(tk.Tk):
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description="One-click Mamai password scanner.")
+    parser = argparse.ArgumentParser(description="One-click Momi password scanner.")
     parser.add_argument(
         "--process-names",
         nargs="+",
